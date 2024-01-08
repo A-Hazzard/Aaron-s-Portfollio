@@ -23,7 +23,7 @@
 
 FormatFusser is a versatile media conversion tool designed to cater to various file manipulation needs. With its robust backend, it offers a range of functionalities for users to effortlessly convert, modify, and enhance their media files.
 
-#### Key Features:
+### Key Features:
 
 __File Conversion:__ 
 - __Supports multiple file formats__ including JPEG, PNG, GIF, MP4, MP3, WAV, and MOV. Users can easily convert files to their desired format.
