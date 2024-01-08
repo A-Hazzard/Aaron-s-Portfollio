@@ -7,7 +7,7 @@
 - **Focus:** Primarily on backend development with a penchant for tackling complex problems and optimizing system performance.
 
 💻 **Technical Skills:**
-- **Languages:** Proficient in JavaScript, Python, and other modern scripting languages.
+- **Languages:** Proficient in JavaScript, Nodejs, Python, Java and C++.
 - **Frameworks & Tools:** Expertise in MERN Stack (MongoDB, Express.js, React, Node.js) for its efficiency, ease of use, and widespread popularity.
 - **Game Development:** Experience in creating immersive and engaging game experiences.
 - **Cyber Security:** Knowledgeable in securing applications and protecting data integrity.
