@@ -40,7 +40,7 @@ Project Link: [FormatFusser](https://dev-formatfusser.pantheonsite.io)
 ![Web capture_7-1-2024_225927_ne1freelance vercel app](https://github.com/A-Hazzard/Aaron-s-Portfollio/assets/62683196/6bf90119-7e63-4f2a-9540-e39d63b0acd9)
 NE1-FEELANCE is a specialized website tailored for freelancers in Trinidad and Tobago. This platform provides a seamless interface for freelancers to showcase their skills, connect with clients, and manage projects effectively.
 
-#### Key Features:
+### Key Features:
 - __Profile Creation:__ Enables freelancers to create detailed profiles showcasing their skills, experience, and portfolio.
 - __Project Bidding:__ Facilitates a system where freelancers can bid on various projects posted by clients, promoting a competitive and fair work environment.
 - __Client Interaction:__ Offers tools for direct communication between clients and freelancers, ensuring clarity and efficiency in project discussions.
@@ -54,7 +54,7 @@ Project Link: [NE1-FEELANCE](https://ne1freelance.vercel.app/)
 
 Ourlime is a vibrant online community platform where users can share life moments, new experiences, and trending content with friends and peers. The website provides a dynamic space for interaction, fostering a sense of community among its users.
 
-#### Key Features:
+### Key Features:
 - __Social Sharing:__ Allows users to share updates, images, and videos, highlighting key life moments and experiences.
 - __Trending Topics:__ Features trending hashtags like #best, #milk, #car, #sports, #skin, encouraging users to engage in popular discussions and topics.
 - __Monetization Capabilities:__ Supports content creators with tools to monetize their content through the creation of various packages, enabling them to sell their posts and creative works to other users.
