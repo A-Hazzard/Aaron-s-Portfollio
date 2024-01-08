@@ -8,7 +8,7 @@
 
 💻 **Technical Skills:**
 - **Languages:** Proficient in JavaScript, Nodejs, Python, Java and C++.
-- **Frameworks & Tools:** Expertise in MERN Stack (MongoDB, Express.js, React, Node.js) for its efficiency, ease of use, and widespread popularity.
+- **Frameworks & Tools:** Expertise in MERN Stack (MongoDB, Express.js, React, Node.js).
 - **Game Development:** Experience in creating immersive and engaging game experiences.
 - **Cyber Security:** Knowledgeable in securing applications and protecting data integrity.
 
