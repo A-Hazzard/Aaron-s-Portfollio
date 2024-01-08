@@ -19,7 +19,8 @@
 
 ## 📚 Projects & Contributions:
 ### 📁 Project 1: FormatFusser
-![Web capture_7-1-2024_225540_dev-formatfusser pantheonsite io](https://github.com/A-Hazzard/Aaron-s-Portfollio/assets/62683196/7c055cd9-02f0-4c27-b497-bae111168ae6)
+![image](https://github.com/A-Hazzard/Aaron-s-Portfollio/assets/62683196/f682894b-8df9-4455-82f8-c7d434739448)
+
 
 FormatFusser is a versatile media conversion tool designed to cater to various file manipulation needs. With its robust backend, it offers a range of functionalities for users to effortlessly convert, modify, and enhance their media files.
 
@@ -37,7 +38,8 @@ __File Conversion:__
 Project Link: [FormatFusser](https://dev-formatfusser.pantheonsite.io)
 
 ### 🌐 Project 2: NE1-FEELANCE
-![Web capture_7-1-2024_225927_ne1freelance vercel app](https://github.com/A-Hazzard/Aaron-s-Portfollio/assets/62683196/6bf90119-7e63-4f2a-9540-e39d63b0acd9)
+![image](https://github.com/A-Hazzard/Aaron-s-Portfollio/assets/62683196/cac0e2fc-4cb6-48bd-8e4f-67a585edb4e1)
+
 NE1-FEELANCE is a specialized website tailored for freelancers in Trinidad and Tobago. This platform provides a seamless interface for freelancers to showcase their skills, connect with clients, and manage projects effectively.
 
 ### Key Features:
@@ -50,7 +52,8 @@ NE1-FEELANCE is a specialized website tailored for freelancers in Trinidad and T
 Project Link: [NE1-FEELANCE](https://ne1freelance.vercel.app/)
 
 ### 🌍 Project 3: Ourlime
-![image](https://github.com/A-Hazzard/Aaron-s-Portfollio/assets/62683196/498d5bcb-8f4b-47d2-83c7-e07244f3dfff)
+![image](https://github.com/A-Hazzard/Aaron-s-Portfollio/assets/62683196/53813d03-f8ce-4969-8f23-988775c386e0)
+
 
 
 Ourlime is a vibrant online community platform where users can share life moments, new experiences, and trending content with friends and peers. The website provides a dynamic space for interaction, fostering a sense of community among its users.
