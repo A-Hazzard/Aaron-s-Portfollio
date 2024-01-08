@@ -50,7 +50,8 @@ NE1-FEELANCE is a specialized website tailored for freelancers in Trinidad and T
 Project Link: [NE1-FEELANCE](https://ne1freelance.vercel.app/)
 
 ### 🌍 Project 3: Ourlime
-![Web capture_7-1-2024_2330_ourlime com](https://github.com/A-Hazzard/Aaron-s-Portfollio/assets/62683196/0be1962a-ca77-4c9c-b248-6321a22fe352)
+![image](https://github.com/A-Hazzard/Aaron-s-Portfollio/assets/62683196/498d5bcb-8f4b-47d2-83c7-e07244f3dfff)
+
 
 Ourlime is a vibrant online community platform where users can share life moments, new experiences, and trending content with friends and peers. The website provides a dynamic space for interaction, fostering a sense of community among its users.
 
